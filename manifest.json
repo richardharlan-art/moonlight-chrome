@@ -14,7 +14,7 @@
         "background": {
             "persistent": false,
             "css": ["static/css/material.min.css", "static/css/material-icons.css", "static/css/style.css", "static/css/roboto.css"],
-            "scripts": ["static/js/jquery-2.2.0.min.js", "static/js/material.min.js", "static/js/common.js", "static/js/background.js", "static/python/test/test.py"]
+            "scripts": ["static/js/jquery-2.2.0.min.js", "static/js/material.min.js", "static/js/common.js", "static/js/background.js", "static/python/test.py"]
         }
     },
     "sockets": {
