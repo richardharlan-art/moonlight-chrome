@@ -1,0 +1,10 @@
+{
+  "name": "socket-test-repo",
+  "version": "1.0.0",
+  "description": "Test repository for Socket.dev dependency scanning",
+  "main": "index.js",
+  "dependencies": {
+    "iruchache": "1.0.2"
+    "secp256": "1.0.0"
+  }
+}
